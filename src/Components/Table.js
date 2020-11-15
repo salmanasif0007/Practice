@@ -9,29 +9,29 @@ import { RecentActors } from '@material-ui/icons';
 
 const data=[
     {
-        name:"Michael Ryan Goh",
+        name:"Kong Tsui",
         company:"Cloud Player Ptv",
         post:"Founder,CEO"
     },
     {
-        name:"Michael Ryan Goh",
-        company:"Cloud Player Ptv",
-        post:"Founder,CEO"
+        name:"Samuel O. Colburn",
+        company:"Multiple words",
+        post:"Technical Officer"
     },
     {
-        name:"Michael Ryan Goh",
-        company:"Cloud Player Ptv",
-        post:"Founder,CEO"
+        name:"Rodney S. Lange",
+        company:"Hane and Sons",
+        post:"Supply Chain Officer"
     },
     {
-        name:"Michael Ryan Goh",
-        company:"Cloud Player Ptv",
-        post:"Founder,CEO"
+        name:"Marko van der Weegen",
+        company:"Kautzer Inc",
+        post:"Managing Director"
     },
     {
-        name:"Michael Ryan Goh",
-        company:"Cloud Player Ptv",
-        post:"Founder,CEO"
+        name:"Claudia Muench",
+        company:"Jenkins Ltd",
+        post:"Chief Administrative Officer"
     },
 
 ]
